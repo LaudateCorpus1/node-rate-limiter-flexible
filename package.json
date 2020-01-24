@@ -51,5 +51,8 @@
     "mocha": "^5.1.1",
     "redis-mock": "^0.22.0",
     "sinon": "^5.0.10"
+  },
+  "dependencies": {
+    "eventemitter2": "^6.0.0"
   }
 }
